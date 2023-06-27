@@ -30,6 +30,16 @@ Effective coding & development guidelines are crucial for researchers and  devel
 
 Utilize always [GitHub](https://github.com/centre-for-educational-technology), to track changes and collaborate other developers. Commit your code frequently and write descriptive commit messages.
 
+#### Issues
+
+If your repository is brand-new, you don’t have a lot of issues reported, and you want to enable all kinds and forms of feedback to flow in, just keep the default settings for your GitHub Issues. There’s one way to submit a feature request. There’s a different way to submit a bug. Discussions and support requests may or may not be welcome in your issue tracker. Consider dedicated service for discussions and feature requests (UserReport etc).
+
+Mention other people if you want to use their expertise, have them provide an estimate, or just be aware of an issue. You can agree to set assignees immediately when new issues are created. This approach works as long as every possible reporter knows which developers should handle which issues.
+
+Don’t forget to close issues. 
+
+#### Branches
+
 ### Testing
 
 Software testing involves the execution of a software component or system component to evaluate one or more properties of interes. In general, these properties indicate the extent to which the component or system under test:
