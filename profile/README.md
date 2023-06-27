@@ -22,13 +22,13 @@ Effective coding & development guidelines are crucial for researchers and  devel
 
 ## Tools and services we use
 
-Github - codebase
-Zone.ee - Our main hosting provider
-...
+- Github - codebase
+- Zone.ee - Our main hosting provider
+- ...
 
 ### Version control
 
-Utilize always GitHub, to track changes and collaborate other developers. Commit your code frequently and write descriptive commit messages.
+Utilize always [GitHub](https://github.com/centre-for-educational-technology), to track changes and collaborate other developers. Commit your code frequently and write descriptive commit messages.
 
 ### Testing
 
