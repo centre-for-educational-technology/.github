@@ -30,24 +30,21 @@ Zone.ee - Our main hosting provider
 
 Utilize always GitHub, to track changes and collaborate other developers. Commit your code frequently and write descriptive commit messages.
 
-```
-Commit: Add user authentication functionality
+### Testing
 
-Description:
-This commit adds the user authentication functionality to the application. It includes the following changes:
+Software testing involves the execution of a software component or system component to evaluate one or more properties of interes. In general, these properties indicate the extent to which the component or system under test:
 
-- Implemented user registration and login functionality using the Passport.js library.
-- Created user model and schema to store user information in the database.
-- Added routes for user registration, login, and logout.
-- Implemented password hashing and salting for secure storage of user passwords.
-- Created middleware to handle user authentication and protect routes that require authentication.
+- meets the requirements that guided its design and development,
+- responds correctly to all kinds of inputs,
+- performs its functions within an acceptable time,
+- is sufficiently usable,
+- can be installed and run in its intended environments, and
+- achieves the general result its stakeholders desire.
 
-This feature allows users to securely register, log in, and access protected areas of the application. It lays the foundation for implementing user-specific features and personalization in future updates.
+### Documentation guidelines
 
-Closes #123
-```
-
-In this example, the commit message provides a clear and concise summary of the changes introduced in the commit. The description elaborates on the specific modifications made, such as implementing user authentication functionality using the Passport.js library, creating user models and routes, and ensuring password security. Additionally, it mentions the purpose of this feature and how it sets the groundwork for future enhancements. Lastly, the commit message includes a reference to the related issue or task number (#123) that this commit addresses, helping to track and link commits to specific tasks or bug reports in the project management system.
+- Documentation should be clear, concise and provide example on how the software is to be used
+- Top level README file must contain all relevant information to get started using or developing of the project
 
 ### Sensitive data
 
