@@ -14,9 +14,17 @@ Our international team consists of professors, associate professors, lecturers, 
 
 More about us on our [website](https://web.htk.tlu.ee/htk/).
 
-## Coding Guidelines
+## Coding & Development Guidelines
 
-Effective coding guidelines are crucial for web application developers to ensure consistent, maintainable, and high-quality code. These guidelines provide a set of best practices and standards that promote readability, modularity, and collaboration among developers. By following these guidelines, developers can improve code quality, reduce bugs, enhance performance, and make the codebase more scalable and maintainable.
+Effective coding & development guidelines are crucial for researchers and  developers to ensure consistent, maintainable, and high-quality code and project maintaining process. These guidelines provide a set of best practices and standards that promote readability, modularity, and collaboration among staff of the CET (HTK). By following these guidelines:
+- developers can improve code quality, reduce bugs, enhance performance, and make the codebase more scalable and maintainable
+- researchers ... something
+
+## Tools and services we use
+
+Github - codebase
+Zone.ee - Our main hosting provider
+...
 
 ### Version control
 
