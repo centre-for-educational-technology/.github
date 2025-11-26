@@ -43,9 +43,9 @@ Before starting a new technical project, researchers and developers should have 
 ### Branching
 
 - Use a simple flow:
--- main – stable, production-ready
--- dev (optional) – integration/testing
--- **feature/**name – short-lived feature branches
+    - main – stable, production-ready
+    - dev (optional) – integration/testing
+    - **feature/**name – short-lived feature branches
 
 - Open a Pull Request for all changes to main. Use PRs for code review and discussion.
 
@@ -62,21 +62,21 @@ Before starting a new technical project, researchers and developers should have 
 - Each project should include a minimal testing approach appropriate for its size.
 - Automated tests are recommended for production code.
 - At minimum, ensure that:
--- core functionality works as intended
--- software behaves correctly with typical and edge-case inputs
--- basic performance and usability expectations are met
+    - core functionality works as intended
+    - software behaves correctly with typical and edge-case inputs
+    - basic performance and usability expectations are met
 
 ## Documentation Guidelines
 
 - Every repository must have a top-level README describing:
--- purpose of the project
--- how to install/run it
--- basic development workflow
--- any configuration needed (env variables, secrets, etc.)
+    - purpose of the project
+    - how to install/run it
+    - basic development workflow
+    - any configuration needed (env variables, secrets, etc.)
 - Document code consistently:
---keep comments short and meaningful
---include inline documentation for complex logic
--- maintain clear folder structure
+    - keep comments short and meaningful
+    - include inline documentation for complex logic
+    - maintain clear folder structure
 - Provide short examples of how to use the software, API, or datasets.
 
 ## Handling Sensitive Data
@@ -84,7 +84,7 @@ Before starting a new technical project, researchers and developers should have 
 - Never commit sensitive data (passwords, private keys, tokens, server details, personal data).
 - If sensitive data leaks, rotate the password/token immediately. Removing commits is not enough.
 - Use:
--- environment variables
--- .env files excluded via .gitignore
--- secure remote storage or secret managers
--- Document how to set up local configuration without exposing secrets.
+    - environment variables
+    - .env files excluded via .gitignore
+    - secure remote storage or secret managers
+    - Document how to set up local configuration without exposing secrets.
