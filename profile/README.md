@@ -85,6 +85,6 @@ Before starting a new technical project, researchers and developers should have 
 - If sensitive data leaks, rotate the password/token immediately. Removing commits is not enough.
 - Use:
     - environment variables
-    - .env files excluded via .gitignore
+    - <code>.env</code> files excluded via <code>.gitignore</code>
     - secure remote storage or secret managers
     - Document how to set up local configuration without exposing secrets.
