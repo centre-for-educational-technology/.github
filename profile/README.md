@@ -1,7 +1,5 @@
 # Centre for Educational Technology / Haridustehnoloogia keskus  🎓
 
-![preview](https://github.com/centre-for-educational-technology/.github/raw/master/preview.png)
-
 ## About us
 
 Centre for Educational Technology is the research centre of the School of Digital Technology, Tallinn University (TLU). Centre was established 25 years ago and is now one of the leading competency-centres in technology-enhanced learning in Estonia.
