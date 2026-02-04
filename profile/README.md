@@ -2,7 +2,7 @@
 
 ## About us
 
-Centre for Educational Technology is the research centre of the School of Digital Technology, Tallinn University (TLU). Centre was established 25 years ago and is now one of the leading competency-centres in technology-enhanced learning in Estonia.
+Centre for Educational Technology is the research centre of the School of Digital Technology, Tallinn University (TLU). Centre was established 30 years ago and is now one of the leading competency-centres in technology-enhanced learning in Estonia.
 
 The Centre focuses on theoretical, methodological and practical questions related to educational uses of technologies for teaching and learning in formal and informal educational settings. Our centre investigates the development, adoption and use of technologies in several areas of society with the data-driven focus. Special emphasis is put on technologies in education and industry.
 
