@@ -1,4 +1,4 @@
-# Centre for Educational Technology / Haridustehnoloogia keskus  🎓
+# Centre for Educational Technology / Haridustehnoloogia keskus
 
 ## About us
 
@@ -10,7 +10,7 @@ The centre encourages highly links between research and teaching. Our teaching i
 
 Our international team consists of professors, associate professors, lecturers, junior researchers, developers and other project specialists who are working in our research groups.
 
-More about us on our [website](https://web.htk.tlu.ee/htk/).
+More about us on our [website](https://centre-for-educational-technology.github.io/projects/).
 
 ## Coding & Development Guidelines
 
