@@ -24,7 +24,7 @@ Before starting a new technical project, researchers and developers should have 
 - Zone.ee – primary hosting
 - Other services may be used as needed, but should be agreed within the team.
 
-### Tools and services we use
+### Access and Permissions
 
 - Do not add external people to CET/HTK GitHub organisation or repositories without approval from the unit lead or technical lead.
 - Avoid granting unnecessary permissions. Use the least-privilege principle.
